@@ -1,0 +1,2 @@
+This is a test file.
+It also includes numbers like 123456 and special characters: !@#$%^&*()
